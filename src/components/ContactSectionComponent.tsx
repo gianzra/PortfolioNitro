@@ -47,7 +47,7 @@ function ContactSectionComponent(): React.JSX.Element {
           rowGap={{ base: 3, lg: 5 }}
         >
           <SectionSubtitle>Get in Touch 📨</SectionSubtitle>
-          <SectionDescription>I'm always excited to discuss product design, collaboration opportunities, or partnerships. Feel free to reach out to me through any of the channels below.</SectionDescription>
+          <SectionDescription>Im always excited to discuss product design, collaboration opportunities, or partnerships. Feel free to reach out to me through any of the channels below.</SectionDescription>
         </Flex>
 
         {/* Contact Section Contact Card Content */}

@@ -38,8 +38,8 @@ function PortfolioSectionComponent(): React.JSX.Element {
           direction="column"
           rowGap={{ base: 3, lg: 5 }}
         >
-          <SectionSubtitle>Certificates I've Earned 💼</SectionSubtitle>
-          <SectionDescription>During my journey of learning frontend website development, I have earned several certificates. Each certificate represents a project I've completed and the skills I've acquired along the way. Below, I will explain each of these projects in detail.</SectionDescription>
+          <SectionSubtitle>Certificates Ive Earned 💼</SectionSubtitle>
+          <SectionDescription>During my journey of learning frontend website development, I have earned several certificates. Each certificate represents a project Ive completed and the skills Ive acquired along the way. Below, I will explain each of these projects in detail.</SectionDescription>
         </Flex>
 
         {/* Portfolio Section Content Container */}

@@ -1,9 +1,12 @@
 {
+  "homepage": "https://https://gianzra.github.io/PortfolioNitro/",
   "name": "personal-portfolio-website-with-chakra-ui",
   "version": "0.1.0",
   "private": true,
   "scripts": {
     "dev": "next dev",
+    "predeploy" : "npm run build",
+    "deploy" : "gh-pages -d build",
     "build": "next build",
     "start": "next start",
     "lint": "next lint"
@@ -31,6 +34,7 @@
   "devDependencies": {
     "@types/node": "22.0.0",
     "@types/react": "18.3.3",
+    "gh-pages": "^6.1.1",
     "typescript": "5.5.4"
   }
 }
