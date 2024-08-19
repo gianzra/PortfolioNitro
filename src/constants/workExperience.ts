@@ -14,7 +14,7 @@ export const workExperienceList: WorkExperience[] = [
     companyName: "HireHub",
     years: "February 2023 - Present",
     jobStatus: "Part Time",
-    jobDescription: "Responsible for creating whole mobile apps such as Tampang.com, Digital Salesman and many more. Responsible for creating whole user interface and integrate the API.",
+    jobDescription: "Strategizing financial success as the CFO at HireHub. Steering financial management, crafting precise financial reports, and holding the key to the second set of accounts at HireHub.",
     techStack: ["/assets/svg/hirehub_logo.svg"],
   },
   {
