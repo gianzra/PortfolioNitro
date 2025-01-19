@@ -9,7 +9,7 @@ export const contactCardList: ContactCard[] = [
   },
   {
     title: "Gmail",
-    contactVia: "gianzrasteve@gmail.com",
+    contactVia: "gianzra1@gmail.com",
     contactLink: "https://mail.google.com/mail/u/0/?fs=1&to=gianzra1@gmail.com&su=Your%20Subject&body=Your%20Messages&tf=cm",
     cardIcon: "/assets/svg/gmail.svg",
   },
